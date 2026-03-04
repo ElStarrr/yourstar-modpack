@@ -3,11 +3,11 @@
   "mods": [
     {
       "name": "sodium",
-      "file": "sodium-fabric-0.8.6+mc1.21.11.jar"
+      "file": "sodium.jar"
     },
     {
       "name": "lithium",
-      "file": "lithium-fabric-0.21.3+mc1.21.11.jar"
+      "file": "lithium.jar"
     }
   ]
 }
