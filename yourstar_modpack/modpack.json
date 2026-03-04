@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "mods": [
   {
    "file": "sodium.jar"
@@ -15,3 +15,4 @@
   }
  ]
 }
+
