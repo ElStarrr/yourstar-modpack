@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "name": "sodium",
+      "file": "sodium-fabric-0.8.6+mc1.21.11.jar"
+    },
+    {
+      "name": "lithium",
+      "file": "lithium-fabric-0.21.3+mc1.21.11.jar"
+    }
+  ]
+}
