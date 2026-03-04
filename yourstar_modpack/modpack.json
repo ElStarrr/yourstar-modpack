@@ -1,13 +1,17 @@
 {
-  "version": 1,
-  "mods": [
-    {
-      "name": "sodium",
-      "file": "sodium.jar"
-    },
-    {
-      "name": "lithium",
-      "file": "lithium.jar"
-    }
-  ]
+ "version": 1,
+ "mods": [
+  {
+   "file": "sodium.jar"
+  },
+  {
+   "file": "lithium.jar"
+  },
+  {
+   "file": "ferritecore.jar"
+  },
+  {
+   "file": "modernfix.jar"
+  }
+ ]
 }
