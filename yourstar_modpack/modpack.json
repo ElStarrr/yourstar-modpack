@@ -1,5 +1,5 @@
 {
- "version": 7.2,
+ "version": 7.3,
  "mods": [
   {
    "file": "sodium.jar"
@@ -45,9 +45,13 @@
   },
   {
    "file": "malilib.jar"
+  },
+  {
+   "file": "smoothscrolling.jar"
   }
  ]
 }
+
 
 
 
