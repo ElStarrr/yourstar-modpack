@@ -1,5 +1,5 @@
 {
- "version": 6.1,
+ "version": 7,
  "mods": [
   {
    "file": "sodium.jar"
@@ -29,10 +29,14 @@
    "file": "lambdynamiclights.jar"
   },
   {
-   "file": "invmove.jar"
+   "file": "InvMove.jar"
+  },
+  {
+   "file": "cloth-config.jar"
   }
  ]
 }
+
 
 
 
