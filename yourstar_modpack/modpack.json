@@ -1,5 +1,5 @@
 {
- "version": 7.3,
+ "version": 7.4,
  "mods": [
   {
    "file": "sodium.jar"
@@ -54,9 +54,16 @@
   },
   {
    "file": "PickUpNotifier.jar"
+  },
+  {
+   "file": "PuzzlesLib.jar"
+  },
+  {
+   "file": "ForgeConfigAPIPort.jar"
   }
  ]
 }
+
 
 
 
