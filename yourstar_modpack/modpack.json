@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 6.1,
  "mods": [
   {
    "file": "sodium.jar"
@@ -24,9 +24,13 @@
   },
   {
    "file": "fabric-api.jar"
+  },
+  {
+   "file": "lambdynamiclights.jar"
   }
  ]
 }
+
 
 
 
