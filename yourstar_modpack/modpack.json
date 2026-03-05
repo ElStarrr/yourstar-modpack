@@ -1,5 +1,5 @@
 {
- "version": 7.4,
+ "version": 7.5,
  "mods": [
   {
    "file": "sodium.jar"
@@ -60,9 +60,22 @@
   },
   {
    "file": "ForgeConfigAPIPort.jar"
+  },
+  {
+   "file": "particlerain.jar"
+  },
+  {
+   "file": "explosive-enhancement.jar"
+  },
+  {
+   "file": "skinlayers3d.jar"
+  },
+  {
+   "file": "held-item-info.jar"
   }
  ]
 }
+
 
 
 
