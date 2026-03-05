@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "mods": [
   {
    "file": "sodium.jar"
@@ -12,12 +12,13 @@
   },
   {
    "file": "modernfix.jar"
-  }
+  },
   {
    "file": "zoomify.jar"
   }
  ]
 }
+
 
 
 
