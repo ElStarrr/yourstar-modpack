@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "mods": [
   {
    "file": "sodium.jar"
@@ -21,9 +21,13 @@
   },
   {
    "file": "yet_another_config_lib_v3.jar"
+  },
+  {
+   "file": "fabric-api.jar"
   }
  ]
 }
+
 
 
 
