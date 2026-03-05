@@ -48,9 +48,16 @@
   },
   {
    "file": "smoothscrolling.jar"
+  },
+  {
+   "file": "appleskin.jar"
+  },
+  {
+   "file": "PickUpNotifier.jar"
   }
  ]
 }
+
 
 
 
