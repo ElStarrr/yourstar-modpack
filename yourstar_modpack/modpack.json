@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "mods": [
   {
    "file": "sodium.jar"
@@ -15,9 +15,16 @@
   },
   {
    "file": "zoomify.jar"
+  },
+   {
+   "file": "fabric-language-kotlin.jar"
+  },
+  {
+   "file": "yet_another_config_lib_v3.jar"
   }
  ]
 }
+
 
 
 
