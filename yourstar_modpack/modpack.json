@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 7.1,
  "mods": [
   {
    "file": "sodium.jar"
@@ -33,9 +33,16 @@
   },
   {
    "file": "cloth-config.jar"
+  },
+  {
+   "file": "modmenu.jar"
+  },
+  {
+   "file": "smoothswapping.jar"
   }
  ]
 }
+
 
 
 
